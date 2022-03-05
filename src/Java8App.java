@@ -1,4 +1,4 @@
 package src;
 
-public @interface Java8App {
+public class Java8App {
 }
